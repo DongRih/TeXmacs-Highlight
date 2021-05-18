@@ -11,5 +11,5 @@ A TeXmacs package providing highlight functionality.
 
 ## Usage
 
-Try selecting some text or formula and enter `\hl`, and voilà!
+Try selecting some text or formula then enter `\hl`, and voilà!
 
